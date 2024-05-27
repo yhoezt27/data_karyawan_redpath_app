@@ -1,7 +1,3 @@
-WinFormsApp2.exe
-
-Path : .../Aplikasi EXE Pendataan Karyawan/net8.0-windows/WinFormsApp2.exe
-
 1. Login (Staff/Manager)
     Merujuk pada Table Login
 2. Dashboard
